@@ -15,3 +15,5 @@
 * $ docker container run -d --name web_n -p 80:80 nginx
 
 * $ docker container run -d --name http -p 8080:80 httpd
+
+* $ docker container ls
